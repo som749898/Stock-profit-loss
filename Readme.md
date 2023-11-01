@@ -1,7 +1,10 @@
-# Lucky Birthday App
-## Find out if your birthday is lucky or not
+# Stock Profit or Loss App
+
 Built using Vanilla JS, HTML and CSS
 
-## What does this app do?
-1. Finds whether your app is lucky or not.
-1. This app doesn't store your data
+### What does this app do?
+- This app takes the following input
+    - user's stock price when he bought it
+    - stock quantity the user brought
+    - current stock price
+- The app will then is the user in profit or loss and the profit or loss percentage
